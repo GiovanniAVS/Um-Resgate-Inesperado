@@ -31,10 +31,12 @@ As configurações de hardware e software usados para o desenvolvimento do progr
     • Compilador: Visual Studio Code + MinGW
     
 Para esse programa as principais estruturas de dados utilizada foram as Classes e Árvore Binária de Pesquisa, elas estão contidas nos arquivos “no.h” e “arvore.h”. As funções foram implementadas dentro de três cpps, que são “no.cpp”, “arvore.cpp”, “main.cpp”. O funcionamento delas será explicado abaixo.
-NO.H:
+
+**NO.H:**
 
 • Class No: É responsável por armazenar as variáveis de cada nó da árvore binária, que no caso são o seu caractere e o valor associado a esse caractere. Os seus métodos são simples, e são divididos entre mudar o valor/estado de suas variáveis e obter seu valor/estado.
-ARVORE.H:
+
+**ARVORE.H:**
 
 • Class Ordencao: É a principal TAD utilizada para a criação do programa, ela é responsável por implementar todos os métodos de inserção, codificação e decodificação durante o programa, não possuindo como variáveis um string que será lida e a raiz da árvore binária.
     
