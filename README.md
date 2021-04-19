@@ -2,7 +2,7 @@
 
 # Introdução
 
-O problema apresentado aos alunos da matéria Estrutura de Dados foi uma continuação do enunciado dos primeiros trabalhos práticos “Extração Z” e “Retornando Para Casa”; neste temos o objetivo de construir um programa para nossas naves que, a partir de diversos métodos, codifica e decodifica mensagens enviadas e recebidas pela central de comando a fim de impedir que nossas comunicações sejam lidas por piratas mercenários.
+O problema apresentado foi uma continuação do enunciado dos primeiros trabalhos práticos “Extração Z” e “Retornando Para Casa”; neste temos o objetivo de construir um programa para nossas naves que, a partir de diversos métodos, codifica e decodifica mensagens enviadas e recebidas pela central de comando a fim de impedir que nossas comunicações sejam lidas por piratas mercenários.
 
 Para lidar com essa problemática foi feito o Programa “Um Resgate Inesperado”, este é um software criado com base na linguagem C/C++ que realiza a leitura de um arquivos.txt predefinido que contém informações sobre a base usada para as codificações e as mensagens que devem ser  codificadas/decodificadas pelas naves,  em seguida ele realiza a tarefa que foi pedida por meio de um algorítimo recursivo de uma árvore binária, e plota os resultados na interface.
 
